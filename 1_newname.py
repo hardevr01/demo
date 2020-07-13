@@ -1,6 +1,6 @@
 
 
-print('Hello World')
+print('This is bound to cause trouble')
 
 print('New Hello World')
 
